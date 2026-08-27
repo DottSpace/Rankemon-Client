@@ -13,10 +13,3 @@ The project is in **constant development and continuous updating**, introducing 
 * **Bilingual Localization:** Complete native support for both English and Italian languages, with dynamic runtime language switching and persistent session saving.
 * **Custom Pokémon Dark Theme:** A polished, modern dark user interface styled with classic Pokémon color accents (dark charcoal `#0d1117`, vibrant red `#ee1515`, and signature yellow `#ffcb05`), drop shadows, smooth opacity animations, and custom progress bars.
 
-## How to Download and Install
-
-1. **Clone or Download the Repository:**
-   Download the project files directly from GitHub or clone the repository using Git:
-   ```bash
-   git clone [https://github.com/your-username/rankemon-client.git](https://github.com/your-username/rankemon-client.git)
-   cd rankemon-client
